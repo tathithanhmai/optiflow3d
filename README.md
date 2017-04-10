@@ -1,4 +1,3 @@
-# MTA test
 # optiflow
 Optiflow is an implementation of a shape-optimization method for two-dimensional incompressible flows.
 
